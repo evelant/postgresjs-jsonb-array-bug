@@ -1,0 +1,19 @@
+{
+  "name": "postgresjs-jsonb-array-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc -p . && node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "postgres": "3.3.4"
+  },
+  "devDependencies": {
+    "@types/node": "18.15.11",
+    "typescript": "5.0.3"
+  }
+}
